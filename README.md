@@ -18,17 +18,18 @@
 public class Developer
 {
     public string Name => "Gustavo Alexandre Santos";
-    public string Role => "Desenvolvedor Full Stack Júnior";
+    public string Role => "Estagiário de TI | Desenvolvedor C#";
     public string[] Skills => new[] { "C#", ".NET", "SQL Server", "HTML", "CSS", "JavaScript" };
-    public int ExperienceYears => 1;
+    public string Education => "Análise e Desenvolvimento de Sistemas";
     
-    public string GetObjective() => "Criar soluções eficientes com código limpo e boas práticas.";
+    public string GetObjective() => "Agregar valor por meio da tecnologia e inovação.";
 }
 ```
 
-💡 Desenvolvedor apaixonado por **C#/.NET** com sólida base em lógica de programação e POO.  
-🎯 Experiência prática em **Suporte de TI Nível 1** com foco em resolução de problemas.  
-📚 Sempre em busca de aprendizado contínuo e novas tecnologias.
+🏥 **Estagiário de TI** em empresa do setor médico especializada em cirurgia de lipoaspiração  
+💻 Foco em **desenvolvimento de aplicações Windows em C#** e suporte técnico  
+🎓 Cursando **Análise e Desenvolvimento de Sistemas**  
+🎯 Objetivo: propor melhorias e soluções tecnológicas que otimizem processos
 
 ---
 
@@ -85,9 +86,23 @@ Frontend         ████████████░░░░░░░░░
 
 ## 💼 Experiência
 
-| Função | Período | Principais Atividades |
-|--------|---------|----------------------|
-| **Suporte de TI nivel 1 e Desenvolvimento interno** | 1 ano | Atendimento ao usuário, diagnóstico de problemas, manutenção e criação de software |
+### 🏥 Estagiário de TI | Setor Médico
+
+> Empresa especializada em cirurgia de lipoaspiração e produção de equipamentos médicos
+
+**Principais Atividades:**
+
+| Área | Responsabilidades |
+|------|------------------|
+| 💻 **Desenvolvimento** | Aplicações Windows em C#, sistemas internos |
+| 🖥️ **Help Desk** | Atendimento de chamados, suporte técnico aos usuários |
+| 🌐 **Infraestrutura** | Gerenciamento de redes, suporte remoto |
+| 🔧 **Manutenção** | Equipamentos de TI, estabilidade dos processos |
+
+**Diferenciais:**
+- Integração das atividades ao curso de ADS
+- Suporte às áreas administrativa, técnica e de produção
+- Ambiente altamente especializado com foco em precisão e qualidade
 
 ---
 
