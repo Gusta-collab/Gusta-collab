@@ -72,7 +72,7 @@ public class Developer
 
 | Função | Período | Principais Atividades |
 |--------|---------|----------------------|
-| **Suporte de TI - Nível 1** | 1 ano | Atendimento ao usuário, diagnóstico de problemas, suporte Windows |
+| **Suporte de TI nivel 1 e Desenvolvimento interno** | 1 ano | Atendimento ao usuário, diagnóstico de problemas, suporte Windows |
 
 ---
 
