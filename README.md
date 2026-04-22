@@ -18,7 +18,7 @@
 public class Developer
 {
     public string Name => "Gustavo Alexandre Santos";
-    public string Role => "Estagiário de TI | Desenvolvedor C#";
+    public string Role => "Auxilidar de TI | Desenvolvedor C#";
     public string[] Skills => new[] { "C#", ".NET", "SQL Server", "HTML", "CSS", "JavaScript" };
     public string Education => "Análise e Desenvolvimento de Sistemas";
     
@@ -26,7 +26,7 @@ public class Developer
 }
 ```
 
-🏥 **Estagiário de TI** em empresa do setor médico especializada em cirurgia de lipoaspiração  
+🏥 **Auxiliar de TI** em empresa do setor de recuperação de créditos tributários e implementação de soluções fiscais estratégicas.  
 💻 Foco em **desenvolvimento de aplicações Windows em C#** e suporte técnico  
 🎓 Cursando **Análise e Desenvolvimento de Sistemas**  
 🎯 Objetivo: propor melhorias e soluções tecnológicas que otimizem processos
@@ -60,18 +60,6 @@ public class Developer
 
 ---
 
-## 📊 Foco Atual
-
-<div align="center">
-
-```
-Backend          ████████████████████░░░░   80%
-C# / .NET        ██████████████████████░░   90%
-SQL Server       ████████████████░░░░░░░░   65%
-Frontend         ████████████░░░░░░░░░░░░   50%
-```
-
-</div>
 
 ### 🔥 O que estou estudando agora:
 
@@ -86,9 +74,9 @@ Frontend         ████████████░░░░░░░░░
 
 ## 💼 Experiência
 
-### 🏥 Estagiário de TI | Setor Médico
+### 🏥 Auxiliar de TI | Setor Fiscal
 
-> Empresa especializada em cirurgia de lipoaspiração e produção de equipamentos médicos
+> Empresa especializada em recuperação de créditos tributários e implementação de soluções fiscais estratégicas.
 
 **Principais Atividades:**
 
@@ -121,7 +109,7 @@ Frontend         ████████████░░░░░░░░░
 
 <div align="center">
 
-💼 Estou aberto a oportunidades como **Desenvolvedor C#/.NET Júnior**
+💼 Estou aberto a oportunidades como **Desenvolvedor | Tecnico em informatica**
 
 [![LinkedIn](https://img.shields.io/badge/-Gustavo%20Ferreira-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-ferreira-1b9a1b277)
 [![Email](https://img.shields.io/badge/-gferreira.tech@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:gferreira.tech@gmail.com)
