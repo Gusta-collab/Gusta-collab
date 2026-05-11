@@ -1,8 +1,9 @@
+````md
 <div align="center">
 
 # 👋 Olá, eu sou Gustavo Alexandre
 
-### Desenvolvedor Full Stack | C# & .NET Enthusiast
+### Desenvolvedor em Formação | Python • C# • Suporte & Soluções de TI
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-ferreira-1b9a1b277)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gferreira.tech@gmail.com)
@@ -12,112 +13,133 @@
 
 ---
 
-## 🚀 Sobre Mim
+# 🚀 Sobre Mim
 
-```csharp
-public class Developer
-{
-    public string Name => "Gustavo Alexandre Santos";
-    public string Role => "Auxilidar de TI | Desenvolvedor C#";
-    public string[] Skills => new[] { "C#", ".NET", "SQL Server", "HTML", "CSS", "JavaScript" };
-    public string Education => "Análise e Desenvolvimento de Sistemas";
-    
-    public string GetObjective() => "Agregar valor por meio da tecnologia e inovação.";
-}
-```
+```python
+class Gustavo:
+    def __init__(self):
+        self.name = "Gustavo Alexandre Santos"
+        self.role = "Auxiliar de TI | Desenvolvedor em Formação"
+        self.skills = [
+            "Python",
+            "C#",
+            ".NET",
+            "HTML",
+            "CSS",
+            "JavaScript"
+        ]
 
-🏥 **Auxiliar de TI** em empresa do setor de recuperação de créditos tributários e implementação de soluções fiscais estratégicas.  
-💻 Foco em **desenvolvimento de aplicações Windows em C#** e suporte técnico  
-🎓 Cursando **Análise e Desenvolvimento de Sistemas**  
-🎯 Objetivo: propor melhorias e soluções tecnológicas que otimizem processos
+    def objective(self):
+        return "Criar soluções que otimizem processos e agreguem valor através da tecnologia."
+````
+
+💻 Atualmente atuo como **Auxiliar de TI**, trabalhando com suporte técnico, infraestrutura e documentação fiscal.
+
+📚 Estou estudando e desenvolvendo projetos com **Python**, além de aprofundar conhecimentos em **HTML, CSS e JavaScript**.
+
+🖥️ Também desenvolvo aplicações desktop em **C#/.NET** e soluções internas para otimização de processos.
+
+📑 Experiência com auxílio em documentações **SPED** e suporte às áreas administrativas e técnicas.
+
+🎓 Cursando **Análise e Desenvolvimento de Sistemas**.
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tecnologias & Ferramentas
 
 <div align="center">
 
-### Linguagens & Frameworks
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+## 👨‍💻 Linguagens
 
-### Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge\&logo=csharp\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
 
-### Banco de Dados
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+## 🌐 Frontend
 
-### Ferramentas
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+
+## ⚙️ Frameworks & Banco de Dados
+
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge\&logo=dotnet\&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge\&logo=microsoft-sql-server\&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge\&logo=sqlite\&logoColor=white)
+
+## 🧰 Ferramentas
+
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge\&logo=visual-studio\&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
 
 </div>
 
 ---
 
+# 📚 Atualmente Estudando
 
-### 🔥 O que estou estudando agora:
-
-| Tecnologia | Status |
-|------------|--------|
-| ASP.NET Core MVC | 🟢 Em progresso |
-| Entity Framework | 🟡 Iniciando |
-| APIs REST | 🟢 Em progresso |
-| Docker | 🔵 Próximo objetivo |
-
----
-
-## 💼 Experiência
-
-### 🏥 Auxiliar de TI | Setor Fiscal
-
-> Empresa especializada em recuperação de créditos tributários e implementação de soluções fiscais estratégicas.
-
-**Principais Atividades:**
-
-| Área | Responsabilidades |
-|------|------------------|
-| 💻 **Desenvolvimento** | Aplicações Windows em C#, sistemas internos |
-| 🖥️ **Help Desk** | Atendimento de chamados, suporte técnico aos usuários |
-| 🌐 **Infraestrutura** | Gerenciamento de redes, suporte remoto |
-| 🔧 **Manutenção** | Equipamentos de TI, estabilidade dos processos |
-
-**Diferenciais:**
-- Integração das atividades ao curso de ADS
-- Suporte às áreas administrativa, técnica e de produção
-- Ambiente altamente especializado com foco em precisão e qualidade
+| Tecnologia       | Status           |
+| ---------------- | ---------------- |
+| Python           | 🟢 Em evolução   |
+| APIs REST        | 🟢 Em prática    |
+| Entity Framework | 🟡 Aprendendo    |
+| Docker           | 🔵 Próximo passo |
 
 ---
 
-## 🎯 Conceitos & Práticas
+# 💼 Experiência
 
+## 🏢 Auxiliar de TI | Área Fiscal & Tecnologia
+
+> Atuação em empresa voltada para recuperação de créditos tributários e soluções fiscais estratégicas.
+
+### 🔹 Principais atividades
+
+| Área                   | Atividades                                        |
+| ---------------------- | ------------------------------------------------- |
+| 💻 Desenvolvimento     | Aplicações desktop em C#/.NET e sistemas internos |
+| 🖥️ Suporte Técnico    | Help desk, manutenção e atendimento aos usuários  |
+| 🌐 Infraestrutura      | Redes, acesso remoto e suporte operacional        |
+| 📑 Documentação Fiscal | Apoio em documentações SPED e processos fiscais   |
+| ⚙️ Automação           | Melhorias e otimização de processos internos      |
+
+---
+
+# 🎯 Conhecimentos
+
+```txt
+✔ Programação Orientada a Objetos (POO)
+✔ CRUD e manipulação de dados
+✔ APIs REST
+✔ Manipulação de arquivos TXT e JSON
+✔ SQL Server e SQLite
+✔ Clean Code
+✔ Padrão MVC
+✔ Versionamento com Git/GitHub
+✔ Desenvolvimento Desktop
+✔ Suporte Técnico e Infraestrutura
 ```
-✅ Programação Orientada a Objetos (POO)    ✅ Operações CRUD
-✅ Validação de Dados                       ✅ Clean Code
-✅ Manipulação de Arquivos (TXT, JSON)      ✅ Padrão MVC
-✅ APIs REST                                ✅ Autenticação
-```
 
 ---
 
-## 📫 Vamos Conectar?
+# 📫 Vamos Conectar?
 
 <div align="center">
 
-💼 Estou aberto a oportunidades como **Desenvolvedor | Tecnico em informatica**
+💼 Aberto a oportunidades como:
 
-[![LinkedIn](https://img.shields.io/badge/-Gustavo%20Ferreira-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-ferreira-1b9a1b277)
-[![Email](https://img.shields.io/badge/-gferreira.tech@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:gferreira.tech@gmail.com)
+### Desenvolvedor Júnior • Auxiliar de TI • Suporte Técnico
+
+[![LinkedIn](https://img.shields.io/badge/-Gustavo%20Ferreira-0077B5?style=flat-square\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/gustavo-ferreira-1b9a1b277)
+[![Email](https://img.shields.io/badge/-gferreira.tech@gmail.com-D14836?style=flat-square\&logo=gmail\&logoColor=white)](mailto:gferreira.tech@gmail.com)
+[![GitHub](https://img.shields.io/badge/-Gusta--collab-181717?style=flat-square\&logo=github\&logoColor=white)](https://github.com/Gusta-collab)
 
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Gusta-collab&color=00d4ff&style=flat-square&label=Visitantes" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=Gusta-collab&color=00d4ff&style=flat-square&label=Visitantes"/>
 </div>
+```
