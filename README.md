@@ -127,7 +127,6 @@ class Gustavo:
 
 <div align="center">
 
-💼 Aberto a oportunidades como:
 
 ### Desenvolvedor Júnior • Auxiliar de TI • Suporte Técnico
 
