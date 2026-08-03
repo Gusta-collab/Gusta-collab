@@ -1,5 +1,6 @@
 ````md
-<div align="center">
+def gerar_readme():
+    readme_content = """<div align="center">
 
 # 👋 Olá, eu sou Gustavo Alexandre
 
@@ -31,6 +32,16 @@ class Gustavo:
 
     def objective(self):
         return "Criar soluções que otimizem processos e agreguem valor através da tecnologia."
+```"""
+
+    # Opcional: Se quiser salvar automaticamente em um arquivo README.md
+    with open("README.md", "w", encoding="utf-8") as arquivo:
+        arquivo.write(readme_content)
+    
+    print("Arquivo README.md gerado com sucesso!")
+
+if __name__ == "__main__":
+    gerar_readme()
 ````
 
 💻 Atualmente atuo como **Auxiliar de TI**, trabalhando com suporte técnico, infraestrutura e documentação fiscal.
