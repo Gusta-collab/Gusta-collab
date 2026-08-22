@@ -1,83 +1,20 @@
-````md
-def gerar_readme():
-    readme_content = """<div align="center">
-
-# 👋 Olá, eu sou Gustavo Alexandre
-
-### Desenvolvedor em Formação | Python • C# • Suporte & Soluções de TI
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-ferreira-1b9a1b277)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gferreira.tech@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gusta-collab)
-
-</div>
-
----
-
-# 🚀 Sobre Mim
-
-```python
-class Gustavo:
-    def __init__(self):
-        self.name = "Gustavo Alexandre Santos"
-        self.role = "Auxiliar de TI | Desenvolvedor em Formação"
-        self.skills = [
-            "Python",
-            "C#",
-            ".NET",
-            "HTML",
-            "CSS",
-            "JavaScript"
-        ]
-
-    def objective(self):
-        return "Criar soluções que otimizem processos e agreguem valor através da tecnologia."
-```"""
-
-    # Opcional: Se quiser salvar automaticamente em um arquivo README.md
-    with open("README.md", "w", encoding="utf-8") as arquivo:
-        arquivo.write(readme_content)
-    
-    print("Arquivo README.md gerado com sucesso!")
-
-if __name__ == "__main__":
-    gerar_readme()
-````
-
-💻 Atualmente atuo como **Auxiliar de TI**, trabalhando com suporte técnico, infraestrutura e documentação fiscal.
-
-📚 Estou estudando e desenvolvendo projetos com **Python**, além de aprofundar conhecimentos em **HTML, CSS e JavaScript**.
-
-🖥️ Também desenvolvo aplicações desktop em **C#/.NET** e soluções internas para otimização de processos.
-
-📑 Experiência com auxílio em documentações **SPED** e suporte às áreas administrativas e técnicas.
-
-🎓 Cursando **Análise e Desenvolvimento de Sistemas**.
-
----
-
-# 🛠️ Tecnologias & Ferramentas
+# Tecnologias & Ferramentas
 
 <div align="center">
-
-## 👨‍💻 Linguagens
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge\&logo=csharp\&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
 
-## 🌐 Frontend
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
 
-## ⚙️ Frameworks & Banco de Dados
 
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge\&logo=dotnet\&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge\&logo=microsoft-sql-server\&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge\&logo=sqlite\&logoColor=white)
 
-## 🧰 Ferramentas
 
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge\&logo=visual-studio\&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
@@ -99,9 +36,9 @@ if __name__ == "__main__":
 
 ---
 
-# 💼 Experiência
+#  Experiência
 
-## 🏢 Auxiliar de TI | Área Fiscal & Tecnologia
+##  Auxiliar de TI | Área Fiscal & Tecnologia
 
 > Atuação em empresa voltada para recuperação de créditos tributários e soluções fiscais estratégicas.
 
