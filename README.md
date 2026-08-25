@@ -25,22 +25,11 @@
 
 ---
 
-# 📚 Atualmente Estudando
 
-| Tecnologia       | Status           |
-| ---------------- | ---------------- |
-| Python           | 🟢 Em evolução   |
-| APIs REST        | 🟢 Em prática    |
-| Entity Framework | 🟡 Aprendendo    |
-| Docker           | 🔵 Próximo passo |
-
----
-
-#  Experiência
 
 ##  Auxiliar de TI | Área Fiscal & Tecnologia
 
-> Atuação em empresa voltada para recuperação de créditos tributários e soluções fiscais estratégicas.
+> Atualmente trabalhando na Ex Soluções Tributárias, empresa voltada para recuperação de créditos tributários e soluções fiscais estratégicas.
 
 ### 🔹 Principais atividades
 
