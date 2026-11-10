@@ -27,7 +27,7 @@
 
 
 
-##  Auxiliar de TI | Área Fiscal & Tecnologia
+##  Analista de TI | Área Fiscal & Tecnologia
 
 > Atualmente trabalhando na Ex Soluções Tributárias, empresa voltada para recuperação de créditos tributários e soluções fiscais estratégicas.
 
